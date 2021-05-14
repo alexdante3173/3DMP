@@ -39,7 +39,7 @@ Inside the Spring Car folder you have every component of the car saved as an .st
 
 ## Software
 
-The software I used to designe and render the Spring Car is Fusion360 and PrusaSlicer 2.3.0 for slicing.
+The software I used to design and render the Spring Car is Fusion360 and PrusaSlicer 2.3.0 for slicing.
 
 ### Author
 This design was made by Alexandra Dinu.
