@@ -23,7 +23,7 @@ This is the coast mode.
  The latter consists of the pawl and pawl gear. By rotating the knob clockwise the pawl will also move clockwise inside the gear pawl. Becase of the
  way the gear pawl was designed the pawl can only execute a clockwise motion inside the gear pawl. Once the sprig is fully wound, the force deplating 
  the spring will be strong enough to rotate, thanks to the pawl, the gear pawl counterclockwise. If you want to find out more about how a ratchet 
- mechansim works, you can check out THIS LINK
+ mechansim works, you can check out [THIS LINK](https://www.youtube.com/watch?v=EpVPG2fZrHE).
  
 
 
