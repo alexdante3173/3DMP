@@ -33,6 +33,7 @@ subsequently on the Rear Wheels. The Spring Motor will deliver enough torque to 
 move forward.
 
  The software I used to designe and render the Spring Car is Fusion360 and PrusaSlicer 2.3.0 for slicing.
+ This design was made by Alexandra Dinu.
  
  
 
