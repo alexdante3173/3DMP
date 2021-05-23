@@ -28,7 +28,7 @@ This is the _coast mode_.
 ### II. The Gear Train and Wheels   
 
 The Gear Train consists of three gears: "Gear, Compound", "Gear, Floating Pinion" and "Gear, Axle". The motion produced by the motor will first rotate the Gear, Compound, which will move the Gear, Floating Pinion, which will move the Gear, Axle. The latter induces a circular motion on Axle 1, subsequently on the Rear Wheels. The Spring Motor will deliver enough torque to the rear wheels to overcome stationary forces and make the Spring Car
-move forward.
+move forward. For a better understandig of how the Spring Car works, I strongly urge you to play the Car_In_Action motion link inside the .f3d file. 
 
 ## Files 
 
